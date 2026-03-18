@@ -5,7 +5,7 @@
 Fetch movies from TMDB directly in your terminal.
 
 ## Usage
-python cli.py --type popular
+```python cli.py --type popular```
 
 ## Options
 playing | popular | top | upcoming
@@ -13,3 +13,5 @@ playing | popular | top | upcoming
 ## Setup
 - add TMDB_API_KEY in .env
 - pip install -r requirements.txt
+
+Project Inspiration: https://roadmap.sh/projects/tmdb-cli
